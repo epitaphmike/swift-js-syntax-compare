@@ -1,9 +1,9 @@
 
-# Swift is like Kotlin
+# Swift is like Kotlin is like JavaScript
 
-Page: http://nilhcem.github.io/swift-is-like-kotlin/
+Page: http://derek-watson.github.io/swift-kotlin-js/
 
-Programmatically inspired from [swift-is-like-go](https://github.com/jiyinyiyong/swift-is-like-go) and visually inspired from [swiftislikescala](https://github.com/leverich/swiftislikescala)
+Programmatically inspired from [swift-is-like-go](https://github.com/jiyinyiyong/swift-is-like-go) and visually inspired from [swiftislikescala](https://github.com/leverich/swiftislikescala).
 
 ### License
 

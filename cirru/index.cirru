@@ -12,7 +12,7 @@ html
   body
     a (:target _blank)
       :href https://github.com/derek-watson/swift-kotlin-js
-      img#fork-me (:src http://nilhcem.github.io/swift-is-like-kotlin/fork-me.png)
+      img#fork-me (:src http://derek-watson.github.io/swift-kotlin-js/fork-me.png)
     #note
       = "Swift is like Kotlin is like JavaScript"
 

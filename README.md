@@ -1,7 +1,6 @@
+# Swift / JavaScript Syntax Comparison
 
-# Swift is like Kotlin is like JavaScript
-
-Page: http://derek-watson.github.io/swift-kotlin-js/
+## Page: http://epitaphmike.github.io/swift-js-syntax-compare/
 
 Programmatically inspired from [swift-is-like-go](https://github.com/jiyinyiyong/swift-is-like-go) and visually inspired from [swiftislikescala](https://github.com/leverich/swiftislikescala).
 
@@ -13,8 +12,9 @@ MIT
 
 ```bash
 npm i # install dependencies to build tools
-./make.coffee dev # build html
+node make.js dev # build html
 ```
 
 HTML is generated from `cirru/index.cirru`.
+
 Read that file and you would know what's happening.

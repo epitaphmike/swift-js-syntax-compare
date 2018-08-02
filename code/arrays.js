@@ -1,3 +1,2 @@
-let shoppingList = ["catfish", "water",
-    "tulips", "blue paint"]
-shoppingList[1] = "bottle of water"
+let shoppingList = ['catfish', 'water', 'tulips', 'blue paint'];
+shoppingList[1] = 'water';

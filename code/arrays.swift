@@ -1,3 +1,3 @@
 var shoppingList = ["catfish", "water",
     "tulips", "blue paint"]
-shoppingList[1] = "bottle of water"
+shoppingList[1] = "water"

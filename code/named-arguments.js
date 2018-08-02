@@ -1,4 +1,5 @@
-function area({width, height}) {
-  return width * height
+function area({ width, height }) {
+    return width * height;
 }
-area({width: 2, height: 3})
+
+area({ width: 2, height: 3 });
